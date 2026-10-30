@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-signal-aggregator",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Signal Aggregator - Discrete Kalman filter and entropy gain telemetry aggregator with rolling Z-score regime burst detection.",
+  "tools": [
+    "apply_kalman_filter",
+    "detect_volatility_and_regime_bursts",
+    "compute_shannon_entropy_gain"
+  ]
+}
